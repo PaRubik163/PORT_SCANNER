@@ -1,4 +1,4 @@
-impoer socket
+import socket
 
 def scan(target, ports):
     for port in range(1,ports + 1):
